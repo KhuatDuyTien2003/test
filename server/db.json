@@ -1,0 +1,32 @@
+{
+  "user": [
+    {
+      "name": "John3",
+      "email": "john.doe@gmail.com",
+      "website": "John.com",
+      "link": "https://github.com/KhuatDuyTien2003/reactJs",
+      "id": "2022-10-12T04:32:48.650Z"
+    },
+    {
+      "name": "Khuất Duy Tiến",
+      "website": "Khuất Duy Tiến",
+      "email": "khuatduytien@gmail.com",
+      "link": "http://localhost:3000/?",
+      "id": "7VVAaDwB_jtirodzev3Jy"
+    },
+    {
+      "name": "John",
+      "email": "john.doe@gmail.com",
+      "website": "John.com",
+      "link": "https://github.com/KhuatDuyTien2003/reactJs",
+      "id": "roA6rSf-plVZ52znf9kib"
+    },
+    {
+      "name": "",
+      "website": "",
+      "email": "",
+      "link": "",
+      "id": "hdcVX1NVCQ-PG17Znqm1s"
+    }
+  ]
+}
